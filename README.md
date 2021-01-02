@@ -12,10 +12,10 @@
   <a target="_blank" href="https://www.facebook.com/profile.php?id=100015653296778">
   <img alt="Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a> &nbsp;
 </p>
-
+&nbsp;
 
 ### - 🔭 I’m currently working on a confidential project
-### - 🌱 I’m currently learning how to prevent BackLog <br/>
+### - 🌱 I’m currently learning how to prevent BackLog &nbsp;&nbsp;
 
 
 ## :trophy: My Github Stats:
