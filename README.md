@@ -6,16 +6,16 @@
 
 <p align="center">
 <a target="_blank" href="https://api.whatsapp.com/send?phone=8801551805248">
-  <img align="left" alt="Whatsapp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a> 
+  <img alt="Whatsapp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a> 
   <a target="_blank" href="mailto:abdullahmasum6035@gmail.com">
-  <img alt="Gmail" align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a> 
+  <img alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a> 
   <a target="_blank" href="https://www.facebook.com/profile.php?id=100015653296778">
-  <img alt="Facebook" align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a> &nbsp;
+  <img alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a> &nbsp;
 </p>
   
 ## :trophy: My Github Stats:
 [![Abdullah Al Masum's github stats](https://github-readme-stats.vercel.app/api?username=masumBhai&show_icons=true&count_private=true&theme=great-gatsby)](https://github.com/MasumBhai)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasumBhai&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasumBhai&theme=great-gatsby)
 
 
 <!--
