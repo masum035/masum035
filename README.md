@@ -8,6 +8,7 @@
   <img alt="Facebook" align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a> &nbsp;
 
 [![Abdullah Al Masum's github stats](https://github-readme-stats.vercel.app/api?username=masumBhai&show_icons=true&count_private=true&theme=great-gatsby)](https://github.com/MasumBhai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasumBhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MasumBhai/MasumBhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
