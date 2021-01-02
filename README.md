@@ -12,16 +12,17 @@
   <a target="_blank" href="https://www.facebook.com/profile.php?id=100015653296778">
   <img alt="Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a> &nbsp;
 </p>
-&nbsp;
 
+<p>
 ### - 🔭 I’m currently working on a confidential project
-### - 🌱 I’m currently learning how to prevent BackLog &nbsp;&nbsp;
+### - 🌱 I’m currently learning how to prevent BackLog &nbsp;
+</p>
 
-
+<p>
 ## :trophy: My Github Stats:
 [![Abdullah Al Masum's github stats](https://github-readme-stats.vercel.app/api?username=masumBhai&show_icons=true&count_private=true&theme=great-gatsby)](https://github.com/MasumBhai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasumBhai&theme=great-gatsby)](https://github.com/MasumBhai)
-
+</p>
 
 <!--
 **MasumBhai/MasumBhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
