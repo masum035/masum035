@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=MasumBhai.MasumBhai)
 [![Github](https://img.shields.io/github/followers/MasumBhai?label=Follow&style=social)](https://github.com/MasumBhai)
 
-### My name is Abdullah Al Masum . Actually, I used to live in universe but recently I am staying in planet Earth. Earth's environment seems aestheticallly beautiful & earth dweller are warm-hearted, specially Bangladesh. So, I'm staying here and doing B.Sc in CSE at Military Institute of Science & Technology. As a cover, I am using whatsapp, gmail, facebook and always reachable . Otherwise earthling might believe I am an extraterrestrial being :') Alright, So, why don't you verify my earth's social account, by just clicking them !!
+### My name is Abdullah Al Masum . Actually, I used to live in universe but recently I am visiting planet Earth. Earth's environment seems aestheticallly beautiful & earth dwellers are warm-hearted to me, specially Bangladesh. So, I'm staying here and doing B.Sc in CSE at Military Institute of Science & Technology. As a cover, I am using whatsapp, gmail, facebook and always reachable . Otherwise earthlings might believe I am an extraterrestrial being :') Alright, So, why don't you verify my earth's social account, by just clicking them & chat with me !!
 
 <p align="center">
 <a target="_blank" href="https://api.whatsapp.com/send?phone=8801551805248">
