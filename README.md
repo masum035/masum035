@@ -15,6 +15,7 @@
 
 ### - 🔭 I’m currently working on a confidential project
 ### - 🌱 I’m currently learning how to prevent BackLog &nbsp;
+### - 💰 my certifications: [Abdullah Al Masum's certificates](https://slides.com/masumbhai/certificates/fullscreen)
 <br/>
 
 ## :trophy: My Github Stats:
