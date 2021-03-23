@@ -1,4 +1,5 @@
-# Hello, friends! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![greetings-Masum](https://user-images.githubusercontent.com/53784551/112112302-8cbb8700-8bdf-11eb-9584-71352b93fa1e.gif)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=MasumBhai.MasumBhai)
 [![Github](https://img.shields.io/github/followers/MasumBhai?label=Follow&style=social)](https://github.com/MasumBhai)
 
