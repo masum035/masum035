@@ -75,7 +75,7 @@ These are few of the major technologies that I use or have worked on, in the pas
 
 <p>
   <span>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasumBhai&show_icons=true&locale=en&layout=compact&theme=great-gatsby" width="410" alt="MasumBhai" /> &nbsp;
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasumBhai&show_icons=true&locale=en&layout=compact&theme=great-gatsby" width="410" alt="MasumBhai" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=masumBhai&show_icons=true&count_private=true&theme=great-gatsby" width="480" alt="MasumBhai" />
   </span>
 </p>
