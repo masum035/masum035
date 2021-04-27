@@ -57,10 +57,11 @@ These are few of the major technologies that I use or have worked on, in the pas
 <img title="Heroku" alt="Heroku" width="50px" src="https://img.icons8.com/color/48/000000/heroku.png">|<img title="000Webhost" alt="000Webhost" width="50px" src="https://user-images.githubusercontent.com/53784551/112209839-2288fd80-8c44-11eb-8aac-d3710c8619d4.png">|<img title="Firebase" alt="FireBase" width="50px" src="https://user-images.githubusercontent.com/53784551/112210469-eb671c00-8c44-11eb-8753-388c569f5c3d.png">|<img title="GitHub Web Hosting" alt="GitHub Web Hosting" width="50px" src="https://user-images.githubusercontent.com/53784551/112218146-9976c400-8c4d-11eb-9fba-90ef7b304c4a.png">
 |---|---|---|---|
 
+
 **Databases**
 
-<img title="SQL" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MySql" alt="MySql" width="50px" src="https://user-images.githubusercontent.com/53784551/112211339-fc645d00-8c45-11eb-94b4-69a7aaaf7291.png">|<img title="PostgreSql" alt="PostgreSql" width="50px" src="https://user-images.githubusercontent.com/53784551/112211323-f66e7c00-8c45-11eb-881c-3c554ba12121.png">
-|---|---|---|
+<img title="SQL" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MySql" alt="MySql" width="50px" src="https://user-images.githubusercontent.com/53784551/112211339-fc645d00-8c45-11eb-94b4-69a7aaaf7291.png">|<img title="PostgreSql" alt="PostgreSql" width="50px" src="https://user-images.githubusercontent.com/53784551/112211323-f66e7c00-8c45-11eb-881c-3c554ba12121.png">|<img title="Oracle" alt="Oracle" width="50px" src="https://user-images.githubusercontent.com/53784551/116256579-2228d880-a795-11eb-95d2-7bbb2768ea0f.png">
+|---|---|---|---|
 
 **Tools**
 
@@ -76,7 +77,7 @@ These are few of the major technologies that I use or have worked on, in the pas
 
 <p>
   <span>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasumBhai&hide=rich-text&show_icons=true&locale=en&layout=compact&theme=great-gatsby" width="380" alt="MasumBhai" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasumBhai&hide=text&show_icons=true&locale=en&layout=compact&theme=great-gatsby" width="380" alt="MasumBhai" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=masumBhai&show_icons=true&count_private=true&theme=great-gatsby" width="440" alt="MasumBhai" />
   </span>
 </p>
