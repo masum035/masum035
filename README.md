@@ -48,7 +48,6 @@ These are few of the major technologies that I use or have worked on, in the pas
 |---|---|---|---|---|---|---|
 
 **FrameWorks and Libraries**
-<img width="1028" alt="folium" src="">
 
 <img title="Bootstrap" alt="Bootstrap" width="50px" src="https://user-images.githubusercontent.com/53784551/112261172-8556b500-8c95-11eb-9a46-a5144cf1d528.png">|<img title="C++ Graphics" alt="C++ Graphics" width="50px" src="https://user-images.githubusercontent.com/53784551/112266121-cb177b80-8c9d-11eb-8753-2f4179fbd3c2.jpg">|<img title="Jquery" alt="Jquery" width="50px" src="https://user-images.githubusercontent.com/53784551/112260995-2729d200-8c95-11eb-9a54-2c2d30b38a17.png">|<img title="Folum" alt="Folium" width="50px" src="https://user-images.githubusercontent.com/53784551/112268938-eab0a300-8ca1-11eb-8443-df97b920c51c.png">|<img title="Flask" alt="Flask" width="50px" src="https://user-images.githubusercontent.com/53784551/112264682-6ce99900-8c9b-11eb-9c0e-ed633e804148.png">|<img title="Pandas" alt="Pandas" width="50px" src="https://user-images.githubusercontent.com/53784551/112265435-aff83c00-8c9c-11eb-9967-7aa18b90829e.png">|<img title="Selenium" alt="Selenium" width="50px" src="https://user-images.githubusercontent.com/53784551/112266572-66105580-8c9e-11eb-8df6-3aa0f4c8f5f2.png">
 |--|--|--|--|--|--|--|
@@ -77,7 +76,7 @@ These are few of the major technologies that I use or have worked on, in the pas
 
 <p>
   <span>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasumBhai&show_icons=true&locale=en&layout=compact&theme=great-gatsby" width="380" alt="MasumBhai" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasumBhai&hide=text&show_icons=true&locale=en&layout=compact&theme=great-gatsby" width="380" alt="MasumBhai" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=masumBhai&show_icons=true&count_private=true&theme=great-gatsby" width="440" alt="MasumBhai" />
   </span>
 </p>
