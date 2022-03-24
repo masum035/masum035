@@ -1,19 +1,15 @@
-
-<br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/53784551/112112302-8cbb8700-8bdf-11eb-9584-71352b93fa1e.gif" alt="Welcome From MasumBhai"/>
 </p>
 
-<span>
-<a target="_blank" href="https://github.com/MasumBhai">
-  <img src="https://komarev.com/ghpvc/?username=MasumBhai&label=Profile%20Views&color=blueviolet&style=flat-square" alt="MasumBhai" style="float:left" />
-</a> &nbsp;
-<a target="_blank" href="https://github.com/MasumBhai?tab=followers">  
-  <img src="https://img.shields.io/github/followers/MasumBhai?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" style="float:right" />
-</a>
-</span>
+## <p align="center">Myself: Abdullah Al Masum</p> ##
 
-### :<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I am Abdullah Al Masum . Actually, I used to live in universe but recently I am travelling planet Earth. Earth's environment seems aestheticallly beautiful & earth dwellers are warm-hearted to me, specially Bangladesh. So, I'm staying here and doing B.Sc in CSE at Military Institute of Science & Technology. As a cover, I am using whatsapp, gmail, facebook, instagram and always reachable . Otherwise earthlings might believe I am an extraterrestrial being :') Alright, So, why don't you verify my earth's social account, by just clicking them & chat with me !! <img src="https://user-images.githubusercontent.com/53784551/112259879-3c056600-8c93-11eb-907a-6d6cbf703ddf.gif" width="40px">
+| <a target="_blank" href="https://github.com/MasumBhai" text-align="left"><img src="https://komarev.com/ghpvc/?username=MasumBhai&label=Profile%20Views&color=blueviolet&style=flat-square" alt="MasumBhai" style="float:left" /></a> | <a target="_blank" href="https://github.com/MasumBhai?tab=followers" text-align="right"><img src="https://img.shields.io/github/followers/MasumBhai?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" style="float:right" /></a>  |
+|---|---| 
+
+
+---
+I am currently pursuing my B.Sc(final year) in CSE at Military In, Bangladesh. I am an open source enthusiast & always hungry for project related work. However I consider myself a more of an 'elephant in the room' than a 'shut-in nerd', well, self proclaimed! I like to introduce myself as an anime lover (Otaku) & malayalam movie admirers. Also, Sometimes I feel like a 'professional code stealer' from stackoverflow. I can't honestly say that I really love staring at the monitor and typing stuffs that make sense to a specific group of people, but it is what it is. I don't think an intro like this okay to fully say who am I in real. But I keenly wish to learn more and become as skillful as possible within my limits. And don't forget to communicate with me via:
 
 <p align="center">
   <a target="_blank" href="https://api.whatsapp.com/send?phone=8801551805248">
@@ -27,8 +23,97 @@
   </a> &nbsp; &nbsp; &nbsp;
   <a target="_blank" href="https://www.instagram.com/masum.035">
   <img alt="Instagram" width="48px" src="https://user-images.githubusercontent.com/53784551/112117102-2c2f4880-8be5-11eb-9c8a-ebc37cafe127.png" />
+  </a> &nbsp; &nbsp; &nbsp;
+  <a target="_blank" href="https://t.me/MasumBhai">
+  <img alt="Telegram" width="48px" src="https://user-images.githubusercontent.com/53784551/159965796-4305b4e9-4df1-4bf2-9150-30c685b534b5.png" />
   </a>
 </p>
+
+### Currently Engaged In ### 
+- Contributing and Moderating Tutorials in [LightOJ](https://github.com/lightoj-dev/problem-tutorials "LightOJ"). 
+- Making My Own Solve of "[Programming Contest: Data Structure and Algorithm](https://github.com/showrav-ansary/Programming-Contest-Data-Structure-and-Algorithm-by-Md.-Mahbubul-Hasan "Programming Contest: Data Structure and Algorithm by Md. Mahbubul Hasan")".
+- Researching as a Research Assistant in [Bengali.ai](https://bengali.ai/ "Bengali.ai").
+- Creating a general purpose Haskell-stack based BlockChain/LedgerBook called `SnowBlock`. 
+- Testing/Report/Fixing lessons in [Carpentries Incubator](https://github.com/carpentries-incubator).
+
+### Hobbies ###
+- Drawing : Human Figures. Abstract. 
+- Listening to Music : Jazz. Blues.
+- Journaling : Personal Stuffs.
+- Problem Solving : Books.
+
+### Achievements ###
+Here are few of my notable achievements :
+- Vice Chancellor's Certificate, BRAC University. (2019)
+- Sixth Place Holder, Junior Category, Rajshahi Regional, Bangladesh Physic Olympiad (BdPhO). (2013)
+- Second Runner Up, Junior Category, Rajshahi Regional, Bangladesh Mathematical Olympiad (BdMO). (2013)
+- Second Runner Up, Junior Category, Rajshahi Regional, Bangladesh Mathematical Olympiad (BdMO). (2010)
+- Runner Up, Primary Category, Rajshahi Regional, Bangladesh Mathematical Olympiad (BdMO). (2009)
+
+
+### Volunteering ###
+- Bug Hunter, Bugzilla. (2017 to Present)
+- Tutorial Moderator, LightOJ. (2021 to Present)
+- Research Assistant, Bengali.ai. (2021 to Present)
+- Contributor, DataHaskell. (2021 to Present)
+
+### Technology Stack ###
+- General Purpose / Back End : 
+   Bash <img src="https://github.com/tomchen/stack-icons/blob/master/logos/bash.svg" width="15" height="15">, Python <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" width="15" height="15">, Java <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" width="15" height="15">
+
+- Databases : 
+   MySQL <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" width="15" height="15">
+  
+- Front End : 
+  HTML <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" width="15" height="15">, Qt <img src="https://github.com/tomchen/stack-icons/blob/master/logos/qt.svg" width="15" height="15">, CSS <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3_official.svg" width="15" height="15">
+  
+- Server : 
+   Apache <img src="https://github.com/tomchen/stack-icons/blob/master/logos/apache.svg" width="15" height="15">
+
+- Operating System : 
+   Fedora <img src="https://github.com/tomchen/stack-icons/blob/master/logos/fedora.svg" width="15" height="15">
+  
+- Learning : Haskell <img src="https://github.com/tomchen/stack-icons/blob/master/logos/haskell-icon.svg" width="15" height="15">
+  
+<p align="center"><img src ="https://gpvc.arturio.dev/showrav-ansary"></p>
+
+Profile stats              |  Language Contribution
+:-------------------------:|:-------------------------:
+![showrav-ansary :: Profile Stats](https://github-readme-stats.vercel.app/api?username=showrav-ansary&show_icons=true&theme=dark) | ![showrav-ansary :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showrav-ansary&langs_count=5&theme=tokyonight&layout=compact&hide=html)
+
+## Contact ##
+<p align="center">
+<a href="mailto:showrav.ansary.bd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-showrav.ansary.bd@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://twitter.com/ansary_showrav"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-A._A._Noman_Ansary-blue?style=flat&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/showrav-ansary/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-A._A._Noman_Ansary-blue?style=flat&logo=linkedin"></a>
+</p>
+
+
+<!--
+**showrav-ansary/showrav-ansary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
+<br>
+
+
+
+
+### :<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I am Abdullah Al Masum . Actually, I used to live in universe but recently I am travelling planet Earth. Earth's environment seems aestheticallly beautiful & earth dwellers are warm-hearted to me, specially Bangladesh. So, I'm staying here and doing B.Sc in CSE at Military Institute of Science & Technology. As a cover, I am using whatsapp, gmail, facebook, instagram and always reachable . Otherwise earthlings might believe I am an extraterrestrial being :') Alright, So, why don't you verify my earth's social account, by just clicking them & chat with me !! <img src="https://user-images.githubusercontent.com/53784551/112259879-3c056600-8c93-11eb-907a-6d6cbf703ddf.gif" width="40px">
+
+
 
 
 ### - :trophy: my certifications: &nbsp;[Abdullah Al Masum's certificates](https://slides.com/masumbhai/certificates/fullscreen)
