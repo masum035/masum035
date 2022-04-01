@@ -2,7 +2,12 @@
   <img src="https://user-images.githubusercontent.com/53784551/112112302-8cbb8700-8bdf-11eb-9584-71352b93fa1e.gif" alt="Welcome From MasumBhai"/>
 </p>
 
-## <p align="center">Myself: Abdullah Al Masum</p> ##
+<div align="center">
+  
+| <h3>Myself: Abdullah Al Masum</h3> | <h3><a target="_blank" href="https://drive.google.com/file/d/1X1TPEVjuZ2TacHyH3_qQOHWDg8Ldl31-/view?usp=sharing">Download CV</a></h3> |
+|---|---| 
+
+</div>
 
 I am currently pursuing my B.Sc (final year) in CSE at Military Institute of Science & Technology, Bangladesh. I am an open source enthusiast & always hungry for project related work. However I consider myself a more of an 'elephant in the room' than a 'shut-in nerd', well, Actually Both are True. Again, I like to introduce myself as an anime lover (Otaku) & malayalam movie admirers & a bookworm. I read Alexandre Dumas 'Three Musketeers' in class six & William Shakespeare's 'Hamlet' in class seven & read Leo Tolstoy's 'War and Peace' in college. Alright past is past, now sometimes I imagine myself as a 'professional code stealer' from stackoverflow. I can't honestly say that I really love staring at the monitor and typing stuffs that make sense to a specific group of people, but it is what it is. And I don't think an intro like this okay to fully say who am I in real. But I keenly wish to learn more and become as skillful as possible within my limits. And don't forget to communicate with me via:
 
