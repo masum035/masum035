@@ -33,7 +33,7 @@ I am currently pursuing my B.Sc (final year) in CSE at Military Institute of Sci
 </p>
 
 ### Currently Engaged In ### 
-- A Foreign M.Sc Assignment on xv6 Operating System. (I do projects for dollar as outsourcing) 
+<!-- - A Foreign M.Sc Assignment on xv6 Operating System. (I do projects for dollar as outsourcing)  -->
 - Making a Human level Intellectual Chat Bot based on Unsupervised Learning. 
 - Bangladesh Military Project named Artillery Fire Guidance System With UAV
 - Making an advanced Blockchain Project (Plzz, Pray for it)
