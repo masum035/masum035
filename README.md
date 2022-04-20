@@ -28,9 +28,14 @@ I am currently pursuing my B.Sc (final year) in CSE at Military Institute of Sci
   <img alt="Telegram" width="48px" src="https://user-images.githubusercontent.com/53784551/159965796-4305b4e9-4df1-4bf2-9150-30c685b534b5.png" />
   </a> &nbsp; &nbsp; &nbsp;
   <a target="_blank" href="https://join.slack.com/t/slack-ura7050/shared_invite/zt-15uzyt4tz-mr6j~UlVwpjS~IqDQMLJRg">
-  <img alt="Slack" width="48px" src="https://user-images.githubusercontent.com/53784551/160111393-c0672cca-5eef-4b04-929b-1370ea787efd.svg"/>  
+  <img alt="Slack" width="48px" src="https://user-images.githubusercontent.com/53784551/160111393-c0672cca-5eef-4b04-929b-1370ea787efd.svg" />  
+  </a> &nbsp; &nbsp; &nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/masum035/">
+  <img alt="LinkedIn" width="48px" src="https://user-images.githubusercontent.com/53784551/164224879-ff3f4e67-14a8-495e-b9c7-f9e66634ce9e.png" />  
   </a>
+  
 </p>
+
 
 ### Currently Engaged In ### 
 <!-- - A Foreign M.Sc Assignment on xv6 Operating System. (I do projects for dollar as outsourcing)  -->
