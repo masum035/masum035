@@ -38,12 +38,12 @@ I am currently pursuing my B.Sc (final year) in CSE at Military Institute of Sci
 
 
 ### Currently Engaged In ### 
-<!-- - A Foreign M.Sc Assignment on xv6 Operating System. (I do projects for dollar as outsourcing)  -->
+- Foreign PhD Assignment on xv6 Operating System. (You can also hire me for your project...)
 - Making a Human level Intellectual Chat Bot based on Unsupervised Learning. 
 - Bangladesh Military Project named Artillery Fire Guidance System With UAV
-- Making an advanced Blockchain Project (Plzz, Pray for it)
-- Learning Front-End FrameWork React
-- Improving Solely Developed 'Mujib's Vision' Android App
+- Making an advanced Blockchain Project for thesis
+- Learning Front-End FrameWork Angular
+- Improving Solely Developed `Mujib's Vision` Android App
 
 ### Achievements ###
 Here are few of my notable achievements :
@@ -58,13 +58,13 @@ Here are few of my notable achievements :
 
 ### Technology Stack ###
 
-Languages : <a target="_blank" href="https://github.com/MasumBhai/Java-Basics.git">Java</a> • <a target="_blank" href="https://github.com/MasumBhai/Slice-of-life-with-Python.git">Python</a> • <a target="_blank" href="https://github.com/MasumBhai/Anime-Streaming.git">PHP</a> • <a target="_blank" href="https://github.com/MasumBhai/personal_portfolio.git">JS</a> • <a target="_blank" href="https://github.com/MasumBhai/need-Help-.git">HTML</a> • <a target="_blank" href="https://github.com/MasumBhai/need-Help-.git">CSS</a> • <a target="_blank" href="https://github.com/MasumBhai/sql-injected-knight.git">SQL</a> • <a target="_blank" href="https://github.com/MasumBhai/Treasure-Hunting-game.git">C</a> • <a target="_blank" href="https://github.com/MasumBhai/Data-Structure.git">C++</a>  • <a target="_blank" href="https://github.com/MasumBhai/50-Day-challenge-with-Assembly-Language.git">Assembly</a> • <a target="_blank" href="https://github.com/MasumBhai/Matlab-Salvage.git">Matlab</a>
+<b>Languages :</b> <a target="_blank" href="https://github.com/MasumBhai/Java-Basics.git">Java</a> • <a target="_blank" href="https://github.com/MasumBhai/Slice-of-life-with-Python.git">Python</a> • <a target="_blank" href="https://github.com/MasumBhai/Anime-Streaming.git">PHP</a> • <a target="_blank" href="https://github.com/MasumBhai/personal_portfolio.git">JS</a> • <a target="_blank" href="https://github.com/MasumBhai/need-Help-.git">HTML</a> • <a target="_blank" href="https://github.com/MasumBhai/need-Help-.git">CSS</a> • <a target="_blank" href="https://github.com/MasumBhai/sql-injected-knight.git">SQL</a> • <a target="_blank" href="https://github.com/MasumBhai/Treasure-Hunting-game.git">C</a> • <a target="_blank" href="https://github.com/MasumBhai/Data-Structure.git">C++</a>  • <a target="_blank" href="https://github.com/MasumBhai/50-Day-challenge-with-Assembly-Language.git">Assembly</a> • <a target="_blank" href="https://github.com/MasumBhai/Matlab-Salvage.git">Matlab</a>
 
-Database : Oracle • MySQL • PostgreSQL • Firebase
+<b>Databases :</b> Oracle • MySQL • PostgreSQL • Firebase • MongoDB
 
-Frameworks : <a target="_blank" href="https://github.com/Brainy-Fools/Railway-Database-Management-Project.git">Django</a> • <a target="_blank" href="https://github.com/MasumBhai/Python-Cluster-Project.git">Selenium</a> • <a target="_blank" href="https://github.com/MasumBhai/personal_portfolio.git">jQuery</a> • <a target="_blank" href="https://github.com/MasumBhai/Training_Python_Flask.git">Flask</a>
+<b>Frameworks :</b> <a target="_blank" href="https://github.com/Brainy-Fools/Railway-Database-Management-Project.git">Django</a> • <a target="_blank" href="https://github.com/MasumBhai/Python-Cluster-Project.git">Selenium</a> • <a target="_blank" href="https://github.com/MasumBhai/personal_portfolio.git">jQuery</a> • <a target="_blank" href="https://github.com/MasumBhai/Training_Python_Flask.git">Flask</a> • <a target="_blank" href="https://github.com/MasumBhai/Learning-Angular.git">Angular</a>
 
-Tools : Github • Android Studio • IntelliJ Idea • VSCode • Pycharm • Unreal Engine4 • PhpStorm • AWS • Ubuntu
+<b>Tools :</b> PostMan • Android Studio • IntelliJ Idea • Visual Studio • Pycharm • Unreal Engine4 • PhpStorm • AWS • WebStorm • Ubuntu
 
 ---
   
