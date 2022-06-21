@@ -1,16 +1,41 @@
+<details>
+  <summary>
+    
+### Greetings: ###     
+    
+  </summary>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/53784551/112112302-8cbb8700-8bdf-11eb-9584-71352b93fa1e.gif" alt="Welcome From MasumBhai"/>
 </p>
 
+</details>
+
 <div align="center">
   
-| <h3>Myself: Abdullah Al Masum</h3> | <h3><a target="_blank" href="https://rebrand.ly/Resume_of_Masum">Download CV</a></h3> |
+| <h4>Myself: Abdullah Al Masum</h4> | <h4><a target="_blank" href="https://rebrand.ly/Resume_of_Masum">Download CV</a></h4> |
 |---|---| 
 
 </div>
 
-I am currently pursuing my B.Sc (final year) in CSE at Military Institute of Science & Technology, Bangladesh. I am an open source enthusiast & always hungry for project related work. However I consider myself a more of an 'elephant in the room' than a 'shut-in nerd', well, Actually Both are True. Again, I like to introduce myself as an anime lover (Otaku) & malayalam movie admirers & a bookworm. I read Alexandre Dumas 'Three Musketeers' in class six & William Shakespeare's 'Hamlet' in class seven & read Leo Tolstoy's 'War and Peace' in college. Alright past is past, now sometimes I imagine myself as a 'professional code stealer' from stackoverflow. I can't honestly say that I really love staring at the monitor and typing stuffs that make sense to a specific group of people, but it is what it is. And I don't think an intro like this okay to fully say who am I in real. But I keenly wish to learn more and become as skillful as possible within my limits. And don't forget to communicate with me via:
+<details>
+  <summary>
+    
+### Little bit of myself: ###     
+    
+  </summary>
+  
+I am currently pursuing my B.Sc (final year) in CSE at Military Institute of Science & Technology, Bangladesh. I am an open source enthusiast & always hungry for project related work. However I consider myself a more of an 'elephant in the room' than a 'shut-in nerd', well, Actually Both are True. Again, I like to introduce myself as an anime lover (Otaku) & malayalam movie admirers & a bookworm. I read Alexandre Dumas 'Three Musketeers' in class six & William Shakespeare's 'Hamlet' in class seven & read Leo Tolstoy's 'War and Peace' in college. Alright past is past, now sometimes I imagine myself as a 'professional code stealer' from stackoverflow!! I can't honestly say that I really love staring at the monitor and typing stuffs that make sense to a specific group of people, but it is what it is. And I don't think an intro like this okay to fully say who am I in real. But I keenly wish to learn more and become as skillful as possible within my limits.
 
+
+</details>
+
+<details>
+  <summary>
+    
+### Ways to Communicate Me: ###     
+    
+  </summary>
+  
 <p align="center">
   <a target="_blank" href="https://api.whatsapp.com/send?phone=8801551805248">
   <img alt="Whatsapp" width="48px" src="https://user-images.githubusercontent.com/53784551/112117006-11f56a80-8be5-11eb-8cd7-f080a175994b.png" />
@@ -35,28 +60,56 @@ I am currently pursuing my B.Sc (final year) in CSE at Military Institute of Sci
   </a>
   
 </p>
+</details>
 
+<details>
+  <summary>
+    
+### Currently Engaged in: ###     
+    
+  </summary>
 
-### Currently Engaged In ### 
 - Foreign PhD Assignment on xv6 Operating System. (You can also hire me for your project...)
 - Making a Human level Intellectual Chat Bot based on Unsupervised Learning. 
 - Bangladesh Military Project named Artillery Fire Guidance System With UAV
 - Making an advanced Blockchain Project for thesis
 - Learning Front-End FrameWork Angular
 - Improving Solely Developed `Mujib's Vision` Android App
+  
+</details>
 
-### Achievements ###
+<details>
+  <summary>
+    
+### Achievements: ###
+    
+  </summary>
+  
 Here are few of my notable achievements :
 - Placed 1st roll number when i was in class Two (Cause I was the only student in my class in that school for whole one year!!!) <br> It was a sweet experience. No Competitors. All Beautiful Teachers Adored me... Oh! good old days... 
 - Jokes aside, see <a target="_blank" href="https://slides.com/masumbhai/certificates/fullscreen">my certifications here</a>
+  
+</details>
 
-
-### Volunteering ###
+<details>
+  <summary>
+    
+### Volunteering: ###
+    
+  </summary>
+  
 - Pi Day Celebration (2017) in NDC organized by Notre Dame Math Club
 - Inter University Programming Contest (2019) in MIST organized by MIST Computer Club
 - National Collegiate Programming Contest (2020) in MIST organized by Dept of CSE,MIST
+  
+</details>
 
-### Technology Stack ###
+<details>
+  <summary>
+    
+### Technology Stack: ###
+    
+  </summary>
 
 <b>Languages :</b> <a target="_blank" href="https://github.com/MasumBhai/Java-Basics.git">Java</a> • <a target="_blank" href="https://github.com/MasumBhai/Slice-of-life-with-Python.git">Python</a> • <a target="_blank" href="https://github.com/MasumBhai/Anime-Streaming.git">PHP</a> • <a target="_blank" href="https://github.com/MasumBhai/personal_portfolio.git">JS</a> • <a target="_blank" href="https://github.com/MasumBhai/need-Help-.git">HTML</a> • <a target="_blank" href="https://github.com/MasumBhai/need-Help-.git">CSS</a> • <a target="_blank" href="https://github.com/MasumBhai/sql-injected-knight.git">SQL</a> • <a target="_blank" href="https://github.com/MasumBhai/Treasure-Hunting-game.git">C</a> • <a target="_blank" href="https://github.com/MasumBhai/Data-Structure.git">C++</a>  • <a target="_blank" href="https://github.com/MasumBhai/50-Day-challenge-with-Assembly-Language.git">Assembly</a> • <a target="_blank" href="https://github.com/MasumBhai/Matlab-Salvage.git">Matlab</a>
 
@@ -65,6 +118,8 @@ Here are few of my notable achievements :
 <b>Frameworks :</b> <a target="_blank" href="https://github.com/Brainy-Fools/Railway-Database-Management-Project.git">Django</a> • <a target="_blank" href="https://github.com/MasumBhai/Python-Cluster-Project.git">Selenium</a> • <a target="_blank" href="https://github.com/MasumBhai/personal_portfolio.git">jQuery</a> • <a target="_blank" href="https://github.com/MasumBhai/Training_Python_Flask.git">Flask</a> • <a target="_blank" href="https://github.com/MasumBhai/Learning-Angular.git">Angular</a>
 
 <b>Tools :</b> PostMan • Android Studio • IntelliJ Idea • Visual Studio • Pycharm • Unreal Engine4 • PhpStorm • AWS • WebStorm • Ubuntu
+
+</details>
 
 ---
   
@@ -75,6 +130,13 @@ Here are few of my notable achievements :
 
 </div>
 
+<details>
+  <summary>
+    
+### See My Contributions: ###     
+    
+  </summary>
+  
 <div align="center">
   
 Profile stats              |  Language Contribution
@@ -83,6 +145,9 @@ Profile stats              |  Language Contribution
 
 </div>
 
+  
+</details>
+  
 <div align="center">
 <h3>Here's my <a href="https://masumbhai.github.io/personal_portfolio/">complete portfolio</a> Actually, It's incomplete ¯\_(ツ)_/¯ </h3> 
 </div>
