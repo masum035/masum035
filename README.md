@@ -56,13 +56,21 @@ I am currently pursuing my B.Sc (final year) in CSE at Military Institute of Sci
 - Learning Back-End FrameWork asp.net
 - Improving Solely Developed `Mujib's Vision` Android App
 - Making a Human level Intellectual Chat Bot based on Unsupervised Learning 
-- <s>Foreign PhD Assignment on xv6 Operating System</s>
+- <s>Foreign PhD Assignment on xv6 Operating System</s> (Finished)
 
+<hr>
+
+<div align="center">
+  
+| <a target="_blank" href="https://github.com/MasumBhai"><img src="https://komarev.com/ghpvc/?username=MasumBhai&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Masum" style="float:left" /></a> | <a target="_blank" href="https://github.com/MasumBhai?tab=followers"><img src="https://img.shields.io/github/followers/MasumBhai?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" style="float:right" /></a>  |
+|:---:| :---: | 
+
+</div>
 <hr>
 <!-- <details>
   <summary> -->
     
-### Achievements: (expand this) ###
+### Achievements: ###
     
   <!-- </summary> -->
   
@@ -92,20 +100,13 @@ Here are few of my notable achievements :
 
 <b>Databases :</b> Oracle • MySQL • PostgreSQL • Firebase • MongoDB
 
-<b>Frameworks :</b> <a target="_blank" href="https://github.com/Brainy-Fools/Railway-Database-Management-Project.git">Django</a> • <a target="_blank" href="https://github.com/MasumBhai/Python-Cluster-Project.git">Selenium</a> • <a target="_blank" href="https://github.com/MasumBhai/personal_portfolio.git">jQuery</a> • <a target="_blank" href="https://github.com/MasumBhai/Training_Python_Flask.git">Flask</a> • <a target="_blank" href="https://github.com/MasumBhai/Learning-Angular.git">Angular</a>
+<b>Frameworks :</b> <a target="_blank" href="https://github.com/Brainy-Fools/Railway-Database-Management-Project.git">Django</a> • <a target="_blank" href="https://github.com/MasumBhai/Python-Cluster-Project.git">Selenium</a> • <a target="_blank" href="https://github.com/MasumBhai/personal_portfolio.git">jQuery</a> • <a target="_blank" href="https://github.com/MasumBhai/Training_Python_Flask.git">Flask</a> • <a target="_blank" href="https://github.com/MasumBhai/Learning-Angular.git">Angular</a> • <a target="_blank" href="https://github.com/MasumBhai/Dockerized-asp.Net-6-REST-API-with-mongoDB.git">dotNet</a>
 
 <b>Tools :</b> PostMan • Android Studio • IntelliJ Idea • Visual Studio • Pycharm • Unreal Engine4 • PhpStorm • AWS • WebStorm • Ubuntu
 
 </details>
 
----
-  
-<div align="center">
-  
-| <a target="_blank" href="https://github.com/MasumBhai" text-align="left"><img src="https://komarev.com/ghpvc/?username=MasumBhai&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="MasumBhai" style="float:left" /></a> | <a target="_blank" href="https://github.com/MasumBhai?tab=followers" text-align="right"><img src="https://img.shields.io/github/followers/MasumBhai?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" style="float:right" /></a>  |
-|---|---| 
-
-</div>
+<hr>
 
 <!-- <details> -->
   <!-- <summary> -->
@@ -118,7 +119,7 @@ Here are few of my notable achievements :
   
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=masumBhai&show_icons=true&count_private=true&theme=great-gatsby" width="440" alt="MasumBhai" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MasumBhai&exclude_repo=Treasure-Hunting-game&show_icons=true&locale=en&layout=compact&theme=great-gatsby&langs_count=10" width="380" alt="MasumBhai" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MasumBhai&theme=vision-friendly-dark&fire=DD2727&sideNums=CD5CDD" width="700" alt="MasumBhai" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MasumBhai&exclude_repo=Treasure-Hunting-game&show_icons=true&locale=en&layout=compact&theme=great-gatsby&langs_count=10" width="500" alt="MasumBhai" />
 
 </div>
 
