@@ -1,115 +1,92 @@
-<details>
-  <summary>
+<!-- <details> -->
+<!--   <summary> -->
     
-### Greetings: ###     
+<!-- ### Greetings: ###      -->
     
-  </summary>
+<!--   </summary> -->
+  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/53784551/112112302-8cbb8700-8bdf-11eb-9584-71352b93fa1e.gif" alt="Welcome From MasumBhai"/>
 </p>
 
-</details>
+<!-- </details> -->
 
 <div align="center">
   
-| <h4>Myself: Abdullah Al Masum</h4> | <h4><a target="_blank" href="https://rebrand.ly/Resume_of_Masum">Download CV</a></h4> |
+| <b>Myself: Abdullah Al Masum</b> | <b><a target="_blank" href="https://rebrand.ly/Resume_of_Masum">Download CV</a></b> |
 |---|---| 
 
 </div>
 
-<details>
-  <summary>
+<!-- <details> -->
+  <!-- <summary> -->
     
-### Little bit of myself: ###     
+### Little Bit of Myself: ###     
     
-  </summary>
+  <!-- </summary> -->
   
-I am currently pursuing my B.Sc (final year) in CSE at Military Institute of Science & Technology, Bangladesh. I am an open source enthusiast & always hungry for project related work. However I consider myself a more of an 'elephant in the room' than a 'shut-in nerd', well, Actually Both are True. Again, I like to introduce myself as an anime lover (Otaku) & malayalam movie admirers & a bookworm. I read Alexandre Dumas 'Three Musketeers' in class six & William Shakespeare's 'Hamlet' in class seven & read Leo Tolstoy's 'War and Peace' in college. Alright past is past, now sometimes I imagine myself as a 'professional code stealer' from stackoverflow!! I can't honestly say that I really love staring at the monitor and typing stuffs that make sense to a specific group of people, but it is what it is. And I don't think an intro like this okay to fully say who am I in real. But I keenly wish to learn more and become as skillful as possible within my limits.
+I am currently pursuing my B.Sc (final year) in CSE at Military Institute of Science & Technology, Bangladesh. I am an open source enthusiast \& always hungry for project related work. However, I don't think an intro like this okay to fully say who am I in real, also I keenly wish to learn more \& become as skillful as possible within my limits.
 
 
-</details>
+<!-- </details> -->
 
-<details>
-  <summary>
+<!-- <details> -->
+  
+<!--   <summary> -->
     
 ### Ways to Communicate Me: ###     
     
-  </summary>
+<!--   </summary> -->
   
-<p align="center">
-  <a target="_blank" href="https://api.whatsapp.com/send?phone=8801551805248">
-  <img alt="Whatsapp" width="48px" src="https://user-images.githubusercontent.com/53784551/112117006-11f56a80-8be5-11eb-8cd7-f080a175994b.png" />
-  </a> &nbsp; &nbsp; &nbsp;
-  <a target="_blank" href="mailto:abdullahmasum6035@gmail.com">
-  <img alt="Gmail" width="48px" src="https://user-images.githubusercontent.com/53784551/112116791-d9559100-8be4-11eb-8563-ceca65c1a7ad.png" />
-  </a> &nbsp; &nbsp; &nbsp;
-  <a target="_blank" href="https://www.facebook.com/profile.php?id=100015653296778">
-  <img alt="Facebook" width="48px" src="https://user-images.githubusercontent.com/53784551/112116930-fc804080-8be4-11eb-8308-eb397b828805.png" />
-  </a> &nbsp; &nbsp; &nbsp;
-  <a target="_blank" href="https://www.instagram.com/masum.035">
-  <img alt="Instagram" width="48px" src="https://user-images.githubusercontent.com/53784551/112117102-2c2f4880-8be5-11eb-9c8a-ebc37cafe127.png" />
-  </a> &nbsp; &nbsp; &nbsp;
-  <a target="_blank" href="https://t.me/MasumBhai">
-  <img alt="Telegram" width="48px" src="https://user-images.githubusercontent.com/53784551/159965796-4305b4e9-4df1-4bf2-9150-30c685b534b5.png" />
-  </a> &nbsp; &nbsp; &nbsp;
-  <a target="_blank" href="https://join.slack.com/t/slack-ura7050/shared_invite/zt-15uzyt4tz-mr6j~UlVwpjS~IqDQMLJRg">
-  <img alt="Slack" width="44px" src="https://user-images.githubusercontent.com/53784551/160111393-c0672cca-5eef-4b04-929b-1370ea787efd.svg" />  
-  </a> &nbsp; &nbsp; &nbsp;
-  <a target="_blank" href="https://www.linkedin.com/in/masum035/">
-  <img alt="LinkedIn" width="48px" src="https://user-images.githubusercontent.com/53784551/164224879-ff3f4e67-14a8-495e-b9c7-f9e66634ce9e.png" />  
-  </a>
+<div align="center">
   
-</p>
-</details>
+  | <a target="_blank" href="https://api.whatsapp.com/send?phone=8801551805248"><img alt="Whatsapp" width="100px" src="https://user-images.githubusercontent.com/53784551/184060931-11745e9f-0319-4fb7-8098-7a40f1517692.png" /></a> | <a target="_blank" href="mailto:abdullahmasum6035@gmail.com"><img alt="Gmail" width="100px" src="https://user-images.githubusercontent.com/53784551/184060933-4d26bf45-6c20-49d2-9150-22569dfe602c.png" /></a> | <a target="_blank" href="https://www.facebook.com/profile.php?id=100015653296778"><img alt="Facebook" width="100px" src="https://user-images.githubusercontent.com/53784551/184060932-e064eb41-08f7-4840-b99b-15a1513fb27c.png" /></a> | <a target="_blank" href="https://www.instagram.com/masum.035"><img alt="Instagram" width="100px" src="https://user-images.githubusercontent.com/53784551/184060923-eb77bbe3-e079-442a-a858-c046300f7968.png" /></a> | <a target="_blank" href="https://t.me/MasumBhai"><img alt="Telegram" width="100px" src="https://user-images.githubusercontent.com/53784551/184060929-c16780ae-6980-481d-b311-3d978a9e60cd.png" /></a> | <a target="_blank" href="https://www.linkedin.com/in/masum035/"><img alt="LinkedIn" width="100px" src="https://user-images.githubusercontent.com/53784551/184060925-867b359a-2897-4808-b1b1-f66ec9ba047f.png" /></a> | <a target="_blank" href="https://join.slack.com/t/slack-ura7050/shared_invite/zt-15uzyt4tz-mr6j~UlVwpjS~IqDQMLJRg"><img alt="Slack" width="100px" src="https://user-images.githubusercontent.com/53784551/184060927-66bb25d2-0027-439e-aec9-10e93085625a.png" /></a> |
+  | --- | --- | --- | --- | --- | --- | --- |
+  
+</div>
 
-<details>
-  <summary>
-    
+<!-- </details> -->
 ### Currently Engaged in: ###     
-    
-  </summary>
 
-- Foreign PhD Assignment on xv6 Operating System. (You can also hire me for your project...)
-- Making a Human level Intellectual Chat Bot based on Unsupervised Learning. 
-- Bangladesh Military Project named Artillery Fire Guidance System With UAV
-- Making an advanced Blockchain Project for thesis
-- Learning Front-End FrameWork Angular
+- Learnathon (team name: Three60) hosted by <a href="https://geeky.solutions/" target="_blank">Geeky Solutions</a>
+- MIST CSE Departmental Project named Artillery Fire Guidance System With UAV
+- Doing Thesis on BlockChain & CyberSecurity
+- Learning Front-End FrameWork angular
+- Learning noSQL Based Database mongoDB
+- Learning Back-End FrameWork asp.net
 - Improving Solely Developed `Mujib's Vision` Android App
-  
-</details>
+- Making a Human level Intellectual Chat Bot based on Unsupervised Learning 
+- <s>Foreign PhD Assignment on xv6 Operating System</s>
 
-<details>
-  <summary>
+<hr>
+<!-- <details>
+  <summary> -->
     
-### Achievements: ###
+### Achievements: (expand this) ###
     
-  </summary>
+  <!-- </summary> -->
   
 Here are few of my notable achievements :
 - Placed 1st roll number when i was in class Two (Cause I was the only student in my class in that school for whole one year!!!) <br> It was a sweet experience. No Competitors. All Beautiful Teachers Adored me... Oh! good old days... 
 - Jokes aside, see <a target="_blank" href="https://slides.com/masumbhai/certificates/fullscreen">my certifications here</a>
   
-</details>
+<!-- </details> -->
+<hr>
 
-<details>
-  <summary>
-    
 ### Volunteering: ###
-    
-  </summary>
   
 - Pi Day Celebration (2017) in NDC organized by Notre Dame Math Club
 - Inter University Programming Contest (2019) in MIST organized by MIST Computer Club
-- National Collegiate Programming Contest (2020) in MIST organized by Dept of CSE,MIST
-  
-</details>
+- National Collegiate Programming Contest (2020) in MIST organized by Dept of CSE, MIST
 
-<details>
-  <summary>
+<hr>
+
+<!-- <details>
+  <summary> -->
     
 ### Technology Stack: ###
     
-  </summary>
+  <!-- </summary> -->
 
 <b>Languages :</b> <a target="_blank" href="https://github.com/MasumBhai/Java-Basics.git">Java</a> • <a target="_blank" href="https://github.com/MasumBhai/Slice-of-life-with-Python.git">Python</a> • <a target="_blank" href="https://github.com/MasumBhai/Anime-Streaming.git">PHP</a> • <a target="_blank" href="https://github.com/MasumBhai/personal_portfolio.git">JS</a> • <a target="_blank" href="https://github.com/MasumBhai/need-Help-.git">HTML</a> • <a target="_blank" href="https://github.com/MasumBhai/need-Help-.git">CSS</a> • <a target="_blank" href="https://github.com/MasumBhai/sql-injected-knight.git">SQL</a> • <a target="_blank" href="https://github.com/MasumBhai/Treasure-Hunting-game.git">C</a> • <a target="_blank" href="https://github.com/MasumBhai/Data-Structure.git">C++</a>  • <a target="_blank" href="https://github.com/MasumBhai/50-Day-challenge-with-Assembly-Language.git">Assembly</a> • <a target="_blank" href="https://github.com/MasumBhai/Matlab-Salvage.git">Matlab</a>
 
@@ -130,12 +107,12 @@ Here are few of my notable achievements :
 
 </div>
 
-<details>
-  <summary>
+<!-- <details> -->
+  <!-- <summary> -->
     
 ### See My Contributions: ###     
     
-  </summary>
+  <!-- </summary> -->
   
 <div align="center">
   
@@ -146,10 +123,11 @@ Profile stats              |  Language Contribution
 </div>
 
   
-</details>
+<!-- </details> -->
   
 <div align="center">
 <h3>Here's my <a href="https://masumbhai.github.io/personal_portfolio/">complete portfolio</a> Actually, It's incomplete ¯\_(ツ)_/¯ </h3> 
 </div>
 
 <hr>
+
