@@ -127,7 +127,7 @@ Profile stats              |  Language Contribution
 <!-- </details> -->
   
 <div align="center">
-<h3>Here's my <a href="https://masumbhai.github.io/personal_portfolio/">complete portfolio</a> Actually, It's incomplete ¯\_(ツ)_/¯ </h3> 
+<h3>Here's my <a href="http://masumbhai.me">complete portfolio</a></h3> 
 </div>
 
 <hr>
