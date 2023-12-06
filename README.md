@@ -40,7 +40,7 @@ I am currently working as a software engineer at Apurba Technologies Ltd. I have
   
 <div align="center">
   
-  | <a target="_blank" href="https://api.whatsapp.com/send?phone=8801551805248"><img alt="Whatsapp" width="100px" src="https://user-images.githubusercontent.com/53784551/184060931-11745e9f-0319-4fb7-8098-7a40f1517692.png" /></a> | <a target="_blank" href="mailto:abdullahmasum6035@gmail.com"><img alt="Gmail" width="100px" src="https://user-images.githubusercontent.com/53784551/184060933-4d26bf45-6c20-49d2-9150-22569dfe602c.png" /></a> | <a target="_blank" href="https://www.facebook.com/profile.php?id=100015653296778"><img alt="Facebook" width="100px" src="https://user-images.githubusercontent.com/53784551/184060932-e064eb41-08f7-4840-b99b-15a1513fb27c.png" /></a> | <a target="_blank" href="https://www.instagram.com/masum.035"><img alt="Instagram" width="100px" src="https://user-images.githubusercontent.com/53784551/184060923-eb77bbe3-e079-442a-a858-c046300f7968.png" /></a> | <a target="_blank" href="https://t.me/MasumBhai"><img alt="Telegram" width="100px" src="https://user-images.githubusercontent.com/53784551/184060929-c16780ae-6980-481d-b311-3d978a9e60cd.png" /></a> | <a target="_blank" href="https://www.linkedin.com/in/masum035/"><img alt="LinkedIn" width="100px" src="https://user-images.githubusercontent.com/53784551/184060925-867b359a-2897-4808-b1b1-f66ec9ba047f.png" /></a> | <a target="_blank" href="https://join.skype.com/invite/uLyIWnegmHe9"><img alt="Skype" width="100px" src="https://github.com/masum035/MasumBhai/assets/53784551/877153cb-3f49-43ff-9365-558afa166a7a" /></a> |
+  | <a target="_blank" href="https://api.whatsapp.com/send?phone=8801551805248"><img loading="lazy" alt="Whatsapp" width="100px" src="https://github.com/masum035/masum035/blob/main/assets/communication_whatsapp.png" /></a> | <a target="_blank" href="mailto:abdullahmasum6035@gmail.com"><img loading="lazy" alt="Gmail" width="100px" src="https://github.com/masum035/masum035/blob/main/assets/communication_gmail.png" /></a> | <a target="_blank" href="https://www.facebook.com/profile.php?id=100015653296778"><img loading="lazy" alt="Facebook" width="100px" src="https://github.com/masum035/masum035/blob/main/assets/communication_facebook.png" /></a> | <a target="_blank" href="https://www.instagram.com/masum.035"><img loading="lazy" alt="Instagram" width="100px" src="https://github.com/masum035/masum035/blob/main/assets/communication_instagram.png" /></a> | <a target="_blank" href="https://t.me/MasumBhai"><img loading="lazy" alt="Telegram" width="100px" src="https://github.com/masum035/masum035/blob/main/assets/communication_telegram.png" /></a> | <a target="_blank" href="https://www.linkedin.com/in/masum035/"><img loading="lazy" alt="LinkedIn" width="100px" src="https://github.com/masum035/masum035/blob/main/assets/communication_linkedin.png" /></a> | <a target="_blank" href="https://join.skype.com/invite/uLyIWnegmHe9"><img loading="lazy" alt="Skype" width="100px" src="https://github.com/masum035/masum035/blob/main/assets/communication_skype.png" /></a> |
   | --- | --- | --- | --- | --- | --- | --- |
   
 </div>
@@ -50,6 +50,7 @@ I am currently working as a software engineer at Apurba Technologies Ltd. I have
 ### Currently Engaged in: ###  
 
 - Building assistive technologies for visually impaired people with C#
+- Trying to solve problems consistently in the <a target="_blank" href="https://leetcode.com/masum035/">LeetCode platform</a>
   
 <!--
 ### Currently Engaged in: ###     
@@ -64,7 +65,8 @@ I am currently working as a software engineer at Apurba Technologies Ltd. I have
 - Making a Human level Intellectual Chat Bot based on Unsupervised Learning 
 - <s>Foreign PhD Assignment on xv6 Operating System</s> (Finished)
 -->
-<hr>
+<!-- <hr> -->
+<img width="100%" loading="lazy" src="https://github.com/masum035/masum035/blob/main/assets/rainbow.webp" />
 
 <div align="center">
   
@@ -72,7 +74,10 @@ I am currently working as a software engineer at Apurba Technologies Ltd. I have
 |:---:| :---: | 
 
 </div>
-<hr>
+
+<!-- <hr> -->
+<img width="100%" loading="lazy" src="https://github.com/masum035/masum035/blob/main/assets/rainbow.webp" />
+
 <!-- <details>
   <summary> -->
     
@@ -95,7 +100,9 @@ Here are a few of my notable achievements :
 - National Collegiate Programming Contest (2020) in MIST organized by Dept of CSE, MIST
 -->
 
-<hr>
+
+<!-- <hr> -->
+<img width="100%" loading="lazy" src="https://github.com/masum035/masum035/blob/main/assets/rainbow.webp" />
 
 <!-- <details>
   <summary> -->
@@ -114,7 +121,9 @@ Here are a few of my notable achievements :
 
 </details>
 
-<hr>
+
+<!-- <hr> -->
+<img width="100%" loading="lazy" src="https://github.com/masum035/masum035/blob/main/assets/rainbow.webp" />
 
 <!-- <details> -->
   <!-- <summary> -->
@@ -138,5 +147,7 @@ Profile stats              |  Language Contribution
 <h3>Here's my <a href="http://masum035.github.io">incomplete and old portfolio</a>. Still, I suggest you to visit.</h3> 
 </div>
 
-<hr>
+
+<!-- <hr> -->
+<img width="100%" loading="lazy" src="https://github.com/masum035/masum035/blob/main/assets/rainbow.webp" />
 
