@@ -136,7 +136,7 @@ Here are a few of my notable achievements :
   
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=masum035&theme=vision-friendly-dark&fire=DD2727&sideNums=CD5CDD" width="700" alt="masum035" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masum035&exclude_repo=Treasure-Hunting-game&show_icons=true&locale=en&layout=compact&theme=great-gatsby&langs_count=10" width="500" alt="abdullah al masum" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=masum035&theme=vision-friendly-dark&fire=DD2727&sideNums=CD5CDD" width="700" alt="masum035" /> | <img src="https://api.githubtrends.io/user/svg/masum035/langs?time_range=one_year&loc_metric=changed&theme=synthwaves" width="500" alt="abdullah al masum" />
 
 </div>
 
